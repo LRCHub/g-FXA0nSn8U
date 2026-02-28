@@ -1,0 +1,66 @@
+# JVKE – this is what space feels like
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:35.79] I just need some
+[00:40.33] Space
+[00:42.48] I just need some space
+[00:46.71] Space
+[00:49.16] I just need some space
+[00:53.55] Space
+[00:55.46] I just need some space
+[00:59.92] Space
+[01:02.25] I just need some space
+[01:13.25] 
+[01:04.23] Way up (way up)
+[01:05.43] Way up, how I feel right now (right now)
+[01:07.24] Touch down whole city get loud
+[01:08.90] But I don't wanna hear nothing right now
+[01:11.31] Right now, they talk
+[01:12.61] But I don't hear a sound
+[01:13.82] Just on a run
+[01:14.44] I'm on a billboard now
+[01:15.39] Hop down, I don't really get down (Down, down, down)
+[01:17.98] Get down
+[01:18.78] No, they can't get me down
+[01:20.55] I talked to God just now he told me "Boy go make me proud"
+[01:24.00] So I can't slow down
+[01:25.83] No I can't go down
+[01:26.94] Got my head in the clouds, feelin' like
+[01:46.44] 
+[01:28.46] I just need some
+[01:32.79] Space
+[01:35.08] I just need some space
+[01:39.40] Space
+[01:41.79] I just need some space
+[01:46.06] Space
+[01:48.14] I just need some space
+[01:52.49] Space
+[01:54.49] I just need somе
+[02:02.49] 
+[01:57.23] Space, like I'm chillin' in a wraith
+[02:00.20] I'mma rockеt like I'm NASA
+[02:01.76] When I'm walkin' on the stage
+[02:03.39] Claustrophobic in my head hoping that
+[02:04.97] You'll never see it on my face
+[02:06.89] Put together on the outside on the inside
+[02:08.54] I'mma 'bouta break
+[02:10.00] I need space but I need love
+[02:11.51] Memories and amnesia
+[02:13.30] God got me through the seasons
+[02:15.01] When I didn't have a reason (yeah)
+[02:18.32] Now I'm shootin' at the stars and Mars
+[02:20.90] 'Cause I just need some
+[02:32.40] 
+[02:25.53] Space
+[02:27.55] I just need some space (Ooh)
+[02:34.11] I just need some space
+[02:38.52] Space
+[02:40.72] I just need some space
+[02:45.15] Space
+[02:47.02] I just need some space
+[02:58.02] 
+[02:55.36] Space
+[03:00.40] I just need some-
+```
