@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "this is what space feels like",
+  "base_artist": "JVKE",
+  "createdAt": "2026-02-28T09:13:35.321600Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "this is what space feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/01_this_is_what_space_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "this is what space feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/02_this_is_what_space_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "this is what space feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/03_this_is_what_space_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "JVKE - this is what space feels like [Official Lyric Video]",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/04_JVKE_-_this_is_what_space_feels_like_[Official_Lyric_Video]_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "this is what space feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/05_this_is_what_space_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "this is what space feels like (Paused)",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/06_this_is_what_space_feels_like_(Paused)_JVKE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "this is what space feels like",
+      "artist": "JVKE",
+      "has_synced": false,
+      "path": "select/pl_01_this_is_what_space_feels_like_JVKE.txt"
+    }
+  ]
+}
